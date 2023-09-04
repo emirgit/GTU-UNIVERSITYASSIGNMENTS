@@ -1,0 +1,87 @@
+414125,Suc ve Ceza,Fyodor Dostoyevski,1866,1
+732904,To Kill a Mockingbird,Harper Lee,1960,1
+819273,1984,George Orwell,1949,1
+293847,The Great Gatsby,F. Scott Fitzgerald,1925,0
+978123,Pride and Prejudice,Jane Austen,1813,0
+465329,Moby Dick,Herman Melville,1851,0
+728394,War and Peace,Leo Tolstoy,1869,0
+812794,Ulysses,James Joyce,1922,0
+926483,The Odyssey,Homer,-800,0
+217834,The Catcher in the Rye,J.D. Salinger,1951,1
+123101,The Hobbit,J.R.R. Tolkien,1937,0
+209837,Les Misérables,Victor Hugo,1862,0
+634012,A Tale of Two Cities,Charles Dickens,1859,1
+345987,Madame Bovary,Gustave Flaubert,1856,0
+782109,Crime and Punishment,Fyodor Dostoevsky,1866,0
+597628,The Brothers Karamazov,Fyodor Dostoevsky,1880,0
+129835,Wuthering Heights,Emily Bronte,1847,0
+876210,Jane Eyre,Charlotte Bronte,1847,1
+493012,The Grapes of Wrath,John Steinbeck,1939,1
+876598,Lolita,Vladimir Nabokov,1955,0
+593812,One Hundred Years of Solitude,Gabriel Garcia Marquez,1967,0
+387625,The Iliad,Homer,-760,0
+724589,Siddhartha,Hermann Hesse,1922,0
+516382,Great Expectations,Charles Dickens,1861,0
+127459,The Scarlet Letter,Nathaniel Hawthorne,1850,0
+692847,The Stranger,Albert Camus,1942,0
+895347,The Metamorphosis,Franz Kafka,1915,0
+423685,Dracula,Bram Stoker,1897,0
+687452,Frankenstein,Mary Shelley,1818,0
+547823,In Search of Lost Time,Marcel Proust,1913,0
+964372,Lord of the Flies,William Golding,1954,0
+847239,Catch-22,Joseph Heller,1961,0
+569823,Heart of Darkness,Joseph Conrad,1899,0
+235687,The Sun Also Rises,Ernest Hemingway,1926,0
+987562,The Alchemist,Paulo Coelho,1988,0
+679483,The Little Prince,Antoine de Saint-Exupéry,1943,0
+853102,Beloved,Toni Morrison,1987,0
+940582,The Trial,Franz Kafka,1925,0
+234829,Of Mice and Men,John Steinbeck,1937,1
+739482,Middlemarch,George Eliot,1871,0
+238749,The Master and Margarita,Mikhail Bulgakov,1967,0
+932849,The Secret Garden,Frances Hodgson Burnett,1911,0
+8901245,Don Quixote,Miguel de Cervantes,1605,0
+7398453,Alice's Adventures in Wonderland,Lewis Carroll,1865,0
+2783948,Animal Farm,George Orwell,1945,0
+4892379,David Copperfield,Charles Dickens,1850,0
+9728487,The Divine Comedy,Dante Alighieri,1320,1
+7391205,The Picture of Dorian Gray,Oscar Wilde,1890,1
+5842934,Aeneid,Virgil,-19,1
+9347298,The Lord of the Rings,J.R.R. Tolkien,1954,0
+3927394,The Adventures of Huckleberry Finn,Mark Twain,1884,1
+5829374,Gulliver's Travels,Jonathan Swift,1726,0
+4293487,Brave New World,Aldous Huxley,1932,0
+4827394,Anna Karenina,Leo Tolstoy,1877,1
+8923749,The Count of Monte Cristo,Alexandre Dumas,1844,1
+2938749,Fahrenheit 451,Ray Bradbury,1953,1
+3784927,The Jungle Book,Rudyard Kipling,1894,0
+3728497,The Diary of a Young Girl,Anne Frank,1947,1
+5938472,The Pearl,John Steinbeck,1947,1
+2938479,Slaughterhouse-Five,Kurt Vonnegut,1969,0
+9823749,The Wind in the Willows,Kenneth Grahame,1908,1
+382493,A Clockwork Orange,Anthony Burgess,1962,0
+8937492,The Handmaid's Tale,Margaret Atwood,1985,1
+7384927,The Chronicles of Narnia,C.S. Lewis,1950,0
+983745,The Tale of Peter Rabbit,Beatrix Potter,1902,0
+1938472,To the Lighthouse,Virginia Woolf,1927,0
+8293475,The Golden Compass,Philip Pullman,1995,0
+384293,The Canterbury Tales,Geoffrey Chaucer,1400,1
+2948739,Bleak House,Charles Dickens,1853,0
+3928475,The Inferno,Dante Alighieri,1314,0
+2350,Atlas Shrugged,Ayn Rand,1957,0
+3460,East of Eden,John Steinbeck,1952,0
+4570,Mrs. Dalloway,Virginia Woolf,1925,0
+5680,The Road,Cormac McCarthy,2006,0
+2350,A Farewell to Arms,Ernest Hemingway,1929,0
+345602,The Plague,Albert Camus,1947,1
+456703,Blood Meridian,Cormac McCarthy,1985,0
+567809,Invisible Man,Ralph Ellison,1952,0
+123405,Things Fall Apart,Chinua Achebe,1958,0
+234589,White Noise,Don DeLillo,1985,0
+345697,The Big Sleep,Raymond Chandler,1939,0
+45680,A Passage to India,E.M. Forster,1924,0
+567829,On the Road,Jack Kerouac,1957,0
+123501,The Sound and the Fury,William Faulkner,1929,0
+34570,The Color Purple,Alice Walker,1982,1
+45681,The Old Man and The Sea,Ernest Hemingway,1952,1
+56783,The Bell Jar,Sylvia Plath,1963,1

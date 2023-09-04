@@ -1,0 +1,13 @@
+Granparents :
+Ali 70|Jack 40 Jessica|John 35 Venessa
+Fatma 70
+Family Tree :
+Serkan 50 Ali Fatma
+Kemal 45 Ali Fatma
+Ahmet 43 Ali Fatma
+Emir 25 Serkan Hayriye
+Emre 22 Serkan Hayriye
+Pelin 20 Serkan Hayriye
+Ece 18 Kemal Merve
+Erkan 15 Ahmet Nursel
+Muhammed 3 Emir Nuriye

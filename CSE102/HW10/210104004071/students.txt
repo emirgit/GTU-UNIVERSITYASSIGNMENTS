@@ -1,0 +1,11 @@
+Muhammed Emir Kara,210104004071,Suc ve Ceza,1984,The Odyssey
+Serkan Efe,210104004004,The Catcher in the Rye,A Tale of Two Cities
+Rabia,210104004003,Jane Eyre,The Grapes of Wrath
+Ece Yılmaz,21010532051,To Kill a Mockingbird
+Ahmet Arslan,210104453222,Of Mice and Men
+Elif Demir,21013123,The Count of Monte Cristo
+Ethan Ramirez,21574930856,The Bell Jar,The Old Man and The Sea,The Color Purple
+Olivia Parker,20386597412,The Divine Comedy,The Picture of Dorian Gray,Aeneid,The Adventures of Huckleberry Finn
+Liam Patel,20748625933,Anna Karenina
+Emma Carter,20153928764,Fahrenheit 451
+Benjamin Nguyen,20962478539,The Diary of a Young Girl,The Pearl,The Wind in the Willows,The Handmaid's Tale,The Canterbury Tales,The Plague

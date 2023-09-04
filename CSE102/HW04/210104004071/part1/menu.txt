@@ -1,0 +1,11 @@
+Product Price (TL)
+Kebap 75.99
+Lahmacun 21.50
+Pide 40.00
+Doner 55.60
+Iskender 89.99
+Kola 15.00
+Gazoz 12.50
+Su 5.00
+Kunefe 60.00
+Sutlac 32.50

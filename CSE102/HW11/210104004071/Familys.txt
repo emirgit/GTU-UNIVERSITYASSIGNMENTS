@@ -1,0 +1,2 @@
+List of txts:
+deneme.txt
