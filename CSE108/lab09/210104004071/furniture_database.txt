@@ -1,0 +1,7 @@
+Name	Color	Price	SerialNumber	Quantity
+Bed White 300.000000 100004 3
+Chair Black 50.000000 100002 10
+Desk Oak 200.000000 100005 7
+Sofa Gray 350.000000 100003 2
+Table Brown 120.500000 100001 5
+Zigon Kırmızı 135.40	121312 5
