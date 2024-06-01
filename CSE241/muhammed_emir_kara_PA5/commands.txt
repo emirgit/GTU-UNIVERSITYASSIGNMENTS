@@ -1,0 +1,4 @@
+search "Monkeys" in "title"
+search "Space" in "type"
+sort "year"
+search "Twelve Monkeys" in "title"
