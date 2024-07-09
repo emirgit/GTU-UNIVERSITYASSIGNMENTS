@@ -1,2 +1,2 @@
 # GTU-UNIVERSITYASSIGNMENTS
-this reprository includes my school assignments and labs
+this repository includes my school assignments and labs
