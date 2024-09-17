@@ -1,4 +1,4 @@
 # CSE102 – Computer Programming with C Assignment #2
 This project delves into functions and selection in C programming. It demonstrates the use of conditional statements, user input handling, and various arithmetic operations. The program emphasizes implementing function-based solutions for tasks such as leap year determination, enhanced calculations with different output formats, and grade computation. Written in C and compiled with GCC, this homework reinforces fundamental programming concepts and proper use of functions and conditionals.
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/HW02/CSE%20102_HW2.pdf)
+[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Functions%20and%20Selection/CSE%20102_HW2.pdf)

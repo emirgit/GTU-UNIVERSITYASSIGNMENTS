@@ -1,4 +1,4 @@
 # CSE102 – Computer Programming with C Assignment #1
 This project explores advanced I/O operations, alignment, and conditional statements in C. It includes functions for calculating the GCD using the Euclidean algorithm, summing and formatting integers with proper alignment in printf statements, manually displaying multiplication processes, and checking if an integer within a specific range is greater than 5. The program is written in C, compiled with GCC, and includes source code along with screenshots of valid outputs.
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/HW01/HM1.pdf)
+[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Advanced%20IO%20and%20Conditional%20Statements/HM1.pdf)
