@@ -40,5 +40,5 @@ This project involves developing a 2D puzzle game in C, focusing on variables, i
 To compile the program, use:
 ```bash
 make
-
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/HW02/CSE%20102_HW2.pdf)
+```
+[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/2D%20Puzzle%20Game/HW3.pdf)
