@@ -1,9 +1,0 @@
-sID,pID,branch,current_stock
-1,3,Istanbul,100
-2,1,Bursa,150
-3,2,Bursa,0
-5,5,Istanbul,125
-6,4,Kocaeli,250
-7,3,Bursa,250
-8,1,Kocaeli,100
-9,1,Mersin,350

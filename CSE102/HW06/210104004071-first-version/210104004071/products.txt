@@ -1,6 +1,0 @@
-pID,Type,Name,Brand,Price
-1,D,Ayran,Sutas,20.5
-2,F,Simit,Firin,8.0
-3,D,GAZOZ,uludag,15.5
-4,F,doner,baba,54.4
-5,D,yogurt,Sutas,15.5
