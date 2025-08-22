@@ -54,4 +54,4 @@ The project includes a `Makefile` for streamlined compilation and execution.
     **Important Note:** The `Makefile`'s run command is `ulimit -s 65536 && ./test`. The `ulimit -s 65536` part increases the program's stack size before execution. This is **essential** for the "Finish the game with PC" feature, as the recursive `auto_finish` function can make a very large number of calls, which may lead to a stack overflow error on the default stack size.
 
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/)
+[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/8-Puzzle%20Game/CSE%20102%20-%20HW8.pdf)
