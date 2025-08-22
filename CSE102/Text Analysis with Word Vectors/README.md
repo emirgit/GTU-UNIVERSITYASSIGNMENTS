@@ -51,4 +51,4 @@ The project includes a `Makefile` that automates the compilation and execution p
     make
     ```
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS)
+[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Text%20Analysis%20with%20Word%20Vectors/Hw7.pdf)
