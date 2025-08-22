@@ -1,44 +1,54 @@
-# CSE102 – Spring 2023 Assignment #3
+# CSE102 - Assignment #3: 2D Puzzle Game in C
 
-## Overview
+## Description
 
-This project involves developing a 2D puzzle game in C, focusing on variables, input/output operations, selections, loops, and functions. The game is set in a dynamically sized NxN room where the player must navigate a character to a door using directional inputs.
+This project is a 2D puzzle game developed in C, focusing on core programming concepts such as variables, I/O operations, selection statements, loops, and functions. The game challenges the player to navigate a character across a dynamically sized grid to reach an exit door. This assignment emphasizes procedural generation and state management without the use of arrays, requiring a deeper understanding of loops and conditional logic to render the game world and handle player movement.
 
-## Project Details
+## Program Structure and Features
 
-### Part 1: Drawing the Room
-- The room's size is specified by the user (5 ≤ N ≤ 10).
-- The room is displayed with the character (`C`) and the door (`D`) at random locations.
-- Coordinates are indicated for better understanding.
+The application is a menu-driven console game with the following key features:
 
-### Part 2: Gameplay
-- The character can move using the following controls:
-  - `a` - left
-  - `d` - right
-  - `w` - up
-  - `s` - down
-- The game prompts for new moves and prints the room state after each move.
-- Invalid moves or wall collisions are handled with appropriate messages.
-- The game ends when the character reaches the door, and the total number of moves is displayed.
+*   **Part 1: Dynamic Room Generation**
+    *   **Functionality:** The game prompts the user to define the size of the room (an NxN grid, where N is between 5 and 10).
+    *   **Technical Implementation:** The room, player character (`C`), and exit door (`D`) are drawn using nested loops. The starting positions for the character and door are randomized for each new game.
 
-### Part 3: Control of Status
-- A control function checks if the character's location matches the door's location.
-- Returns `1` if the game is over, otherwise `0`.
+*   **Part 2: Interactive Gameplay and Movement**
+    *   **Functionality:** The player controls the character using `w` (up), `a` (left), `s` (down), and `d` (right). The game board is reprinted after every move, showing the updated character position.
+    *   **Technical Implementation:** A central game loop continuously prompts the user for input. The program validates each move to prevent the character from moving outside the room boundaries. If the move is invalid, an error message is displayed.
 
-### Part 4: The Game Menu
-- The program starts automatically with a menu:
-  - **New Game (1)**: Starts a new game with random positions for the character and door.
-  - **Help (2)**: Displays game instructions and rules.
-  - **Exit (3)**: Exits the game with a goodbye message.
+*   **Part 3: Game State Control**
+    *   **Functionality:** A dedicated control function checks whether the player's coordinates match the door's coordinates.
+    *   **Technical Implementation:** This function returns a status code (`1` or `0`) to determine if the win condition has been met, which then terminates the game loop and displays the total number of moves.
 
-## Notes
-- Arrays are not used in the implementation.
-- Proper use of if-else and switch-case statements is required.
-- A Makefile is provided for compilation.
+*   **Part 4: Main Game Menu**
+    *   **Functionality:** A user-friendly menu is presented at launch, offering three choices:
+        1.  **New Game:** Starts a new round by generating a new room.
+        2.  **Help:** Displays the rules and movement controls.
+        3.  **Exit:** Terminates the program.
+    *   **Technical Implementation:** A `switch` statement is used to handle menu navigation, calling the appropriate functions based on user selection.
 
-## Compilation and Execution
-To compile the program, use:
-```bash
-make
-```
+## Learning Objectives
+
+*   **Procedural Generation:** Mastering the use of nested loops to create and render a 2D grid-based environment without relying on arrays.
+*   **State Management:** Tracking game state (like player position and move count) using variables and updating them based on user input.
+*   **Modular Programming:** Structuring the code with functions for distinct tasks such as drawing the room, handling player movement, and checking the win condition.
+*   **Advanced Conditional Logic:** Implementing complex game rules and input validation using `if-else` and `switch-case` statements.
+*   **Randomization:** Utilizing `rand()` and `srand()` to introduce variability and replayability in the game setup.
+*   **Menu-Driven Applications:** Building an interactive, user-friendly application that provides clear choices and feedback.
+
+## How to Compile and Run
+
+1.  **Prerequisites:** You need to have `GCC` (GNU Compiler Collection) and `make` installed.
+
+2.  **Clone the repository and navigate to the project directory:**
+    ```bash
+    git clone https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS.git
+    cd GTU-UNIVERSITYASSIGNMENTS/CSE102/2D\ Puzzle\ Game
+    ```
+
+3.  **Compile and run the source code:**
+    ```bash
+    make
+    ```
+
 [Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/2D%20Puzzle%20Game/HW3.pdf)
