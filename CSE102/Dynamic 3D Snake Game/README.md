@@ -63,4 +63,4 @@ The project includes a `Makefile` for easy compilation and execution.
     make
     ```
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS)
+[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Dynamic%203D%20Snake%20Game/CSE%20102%20-%20HW9.pdf)
