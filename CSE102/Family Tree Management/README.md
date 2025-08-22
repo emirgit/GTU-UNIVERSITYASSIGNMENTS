@@ -48,4 +48,4 @@ The project is equipped with a `Makefile` for easy compilation and execution.
     make
     ```
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/)
+[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Family%20Tree%20Management/CSE102-Homework11.pdf)

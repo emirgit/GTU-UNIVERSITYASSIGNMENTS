@@ -53,4 +53,4 @@ The project includes a `Makefile` that handles the compilation and execution of 
     make
     ```
     
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/)
+[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Library%20Management%20System/Hw10.pdf)

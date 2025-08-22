@@ -55,4 +55,4 @@ The project includes a `Makefile` that automates the entire process.
     make
     ```
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/)
+[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Linked%20List%20Serialization/CSE%20102%20-%20HW12.pdf)
