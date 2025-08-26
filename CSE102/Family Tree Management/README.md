@@ -1,4 +1,4 @@
-# CSE102 - Homework #11: Family Tree Management with Structs and Pointers
+# CSE102 - Assignment #11: Family Tree Management with Structs and Pointers
 
 ## Description
 

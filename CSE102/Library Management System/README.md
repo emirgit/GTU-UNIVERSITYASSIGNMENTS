@@ -1,4 +1,4 @@
-# CSE102 - Homework #10: Library Management System with Linked Lists
+# CSE102 - Assignment #10: Library Management System with Linked Lists
 
 ## Description
 

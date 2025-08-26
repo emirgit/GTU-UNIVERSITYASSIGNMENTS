@@ -1,5 +1,6 @@
-## Features
+# CSE102 - Assignment #1: Advanced IO and Conditional Statements in C
 
+## Features
 This program is divided into four main parts, each demonstrating a different C programming concept:
 
 1.  **Greatest Common Divisor (GCD) Calculator:**

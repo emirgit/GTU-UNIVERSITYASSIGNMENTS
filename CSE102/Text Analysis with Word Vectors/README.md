@@ -1,5 +1,5 @@
 
-# CSE102 - Homework #7: Text Analysis with Word Vectors
+# CSE102 - Assignment #7: Text Analysis with Word Vectors
 
 ## Description
 

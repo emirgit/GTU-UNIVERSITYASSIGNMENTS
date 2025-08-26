@@ -1,4 +1,4 @@
-# CSE102 - Homework #12: Linked List Serialization with Heterogeneous Data
+# CSE102 - Assignment #12: Linked List Serialization with Heterogeneous Data
 
 ## Description
 

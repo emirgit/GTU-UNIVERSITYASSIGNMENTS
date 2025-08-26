@@ -1,4 +1,4 @@
-# CSE102 - Homework #9: Dynamic 3D Snake Game in C
+# CSE102 - Assignment #9: Dynamic 3D Snake Game in C
 
 ## Description
 

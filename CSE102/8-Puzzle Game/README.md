@@ -1,4 +1,4 @@
-# CSE102 - Homework #8: 8-Puzzle Game Simulation in C
+# CSE102 - Assignment #8: 8-Puzzle Game Simulation in C
 
 ## Description
 
