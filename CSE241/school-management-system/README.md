@@ -1,73 +1,63 @@
-# School Management System in C++
+# CSE241 - Assignment #3: School Management System
+
+## Description
 
 This project is a command-line based School Management System implemented in C++. It provides functionalities to manage students and courses, including adding, deleting, and enrolling students in courses. The system is designed with a focus on manual dynamic memory management, using dynamic arrays to store and manage data.
 
-## Project Overview
+## Program Structure and Features
 
-The system is operated through an interactive menu in the console. Users can navigate through different options to perform various actions. The core functionalities are encapsulated within three main classes: `SchoolManagerSystem`, `Student`, and `Course`. All classes and functions are organized within the `PA3` namespace.
+*   **Object-Oriented Design:** The system is built around three main classes:
+    *   `Student`: Represents a student with a name and an ID. Each student object maintains a dynamic array of pointers to the `Course` objects they are enrolled in.
+    *   `Course`: Represents a course with a name and a code. Each course object maintains a dynamic array of pointers to the `Student` objects enrolled in it.
+    *   `SchoolManagerSystem`: The main class that orchestrates the entire system. It holds dynamic arrays of pointers to all `Student` and `Course` objects and manages the main menu and user interactions.
 
-## Core Data Structures
+*   **Dynamic Memory Management:**
+    *   The project uses dynamically allocated arrays (`new` and `delete[]`) to store lists of students and courses, instead of `std::vector`.
+    *   The capacity of these arrays automatically doubles when the number of elements exceeds the current capacity, preventing overflow.
+    *   Destructors are implemented in each class to properly deallocate memory and prevent memory leaks.
 
-- **`Student`**: Represents a student with a name and an ID. Each student object maintains a dynamic array of pointers to the `Course` objects they are enrolled in.
+*   **Interactive Menu System:**
+    *   The user interacts with the system through a recursive menu function, `SchoolManagerSystem::menu()`.
+    *   The menu guides the user through various options, such as adding a new student, selecting a course, or listing all students.
+    *   Input validation is performed to ensure that the user's input is valid for the current menu.
 
-- **`Course`**: Represents a course with a name and a code. Each course object maintains a dynamic array of pointers to the `Student` objects enrolled in it.
+## Learning Objectives
 
-- **`SchoolManagerSystem`**: The main class that orchestrates the entire system. It holds dynamic arrays of pointers to all `Student` and `Course` objects. It also manages the main menu and user interactions.
+*   **Object-Oriented Programming (OOP):** Designing and implementing a system using classes and objects, including constructors, destructors, and member functions.
+*   **Dynamic Memory Management:** Mastering the use of `new` and `delete[]` for manual memory allocation and deallocation of arrays.
+*   **Pointers and References:** Using pointers to manage relationships between objects (e.g., a `Student` having a list of `Course` pointers).
+*   **Data Structures:** Implementing and managing dynamic arrays, including resizing them as needed.
+*   **Modular Programming:** Organizing code into separate header (`.h`) and implementation (`.cpp`) files for better readability and maintainability.
 
-## Implementation Details
+## How to Compile and Run
 
-### Dynamic Memory Management
+This project includes a `makefile` for easy compilation and execution.
 
-A key aspect of this project is the manual management of dynamic memory. Instead of using `std::vector`, the project uses dynamically allocated arrays (`new` and `delete[]`) to store lists of students and courses. The capacity of these arrays is automatically doubled when the number of elements exceeds the current capacity. Destructors are implemented in each class to properly deallocate memory and prevent memory leaks.
+1.  **Prerequisites:** You need to have `make` and `g++` installed.
 
-### Menu System
+2.  **Navigate to the project directory:**
+    ```bash
+    cd CSE241/school-management-system
+    ```
 
-The user interacts with the system through a recursive menu function, `SchoolManagerSystem::menu()`. The menu is designed to guide the user through various options, such as adding a new student, selecting a course, or listing all students. User input is handled by the `checkInput` function, which ensures that the input is valid for the current menu.
-
-## Code Example
-
-Here is the `main.cpp` file, which serves as the entry point for the program:
-
-```cpp
-#include "SchoolManagerSystem.h"
-
-using namespace PA3;
-
-int main(){
-    SchoolManagerSystem system;
-    string userInput;
-    system.menu(1, userInput);
-
-
-
-    return (0);
-}
-```
-
-## Building and Running
-
-This project uses a `makefile` for easy compilation and execution.
-
-1.  **Build the project:**
-
+3.  **Compile the source code:**
     ```bash
     make
     ```
-
     This will compile the source files and create an executable named `main.out`.
 
-2.  **Run the program:**
-
+4.  **Run the program:**
     ```bash
     make run
     ```
+    This will execute `main.out` and start the interactive menu.
 
-    This will execute `main.out`, starting the interactive menu.
-
-3.  **Clean the directory:**
-
+5.  **Clean the build files:**
     ```bash
     make clean
     ```
+    This will remove the executable and all object files.
 
-    This command will remove the executable and all object files (`.o`).
+## Link to Details
+
+[PA3.pdf](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE241/school-management-system/PA3.pdf)
