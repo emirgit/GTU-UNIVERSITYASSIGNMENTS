@@ -29,13 +29,13 @@ This repository contains the projects and assignments for the CSE241 Object Orie
 
 ## Projects
 
-| Project | Description | Grade |
-| :--- | :--- | :--- |
-| [Mastermind Game](./mastermind-game) | A C++ implementation of the classic code-breaking game, Mastermind. | 100/100 |
-| [Sparse Matrix and Vector Operations](./sparse-matrix-vector-operations) | An efficient C++ implementation of sparse vectors and matrices. | 100/100 |
-| [School Management System](./school-management-system) | A command-line based School Management System in C++. | 100/100 |
-| [Robot Simulation](./robot-simulation) | A simulation of robot combat on a grid, showcasing OOP principles. | 100/100 |
-| [Data Catalog Parser](./data-catalog-parser) | A C++ application to parse, manage, and query a catalog of data. | 100/100 |
-| [Java Media Player](./java-media-player) | A Java-based media player demonstrating the Observer design pattern. | 200/200 |
-| [Problem Solving](./problem-solving) | A collection of problem-solving assignments. | 10/10 |
-| **Total** | | **40/40** |
+| Assignment | Project | Description | Grade |
+| :--- | :--- | :--- | :--- |
+| **HW01** | [Mastermind Game](./mastermind-game) | A C++ implementation of the classic code-breaking game, Mastermind. | 100/100 |
+| **HW02** | [Sparse Matrix and Vector Operations](./sparse-matrix-vector-operations) | An efficient C++ implementation of sparse vectors and matrices. | 100/100 |
+| **HW03** | [School Management System](./school-management-system) | A command-line based School Management System in C++. | 100/100 |
+| **HW04** | [Robot Simulation](./robot-simulation) | A simulation of robot combat on a grid, showcasing OOP principles. | 100/100 |
+| **HW05** | [Data Catalog Parser](./data-catalog-parser) | A C++ application to parse, manage, and query a catalog of data. | 100/100 |
+| **HW06** | [Java Media Player](./java-media-player) | A Java-based media player demonstrating the Observer design pattern. | 200/200 |
+| | [Problem Solving](./problem-solving) | A collection of problem-solving assignments. | 10/10 |
+| | **Total** | | **40/40** |

@@ -13,4 +13,4 @@ This directory contains the solutions to the problem-solving assignments for the
 | [Problem Solving 5](./problem-solving-5) | Polynomial Class | |
 | [Problem Solving 6](./problem-solving-6) | Predator-Prey Simulation | |
 | [Problem Solving 7](./problem-solving-7) | Template-based Set and Pair Classes | |
-| TOTAL                                    |                                     | 10/10 |
+| **Total** | | **10/10** |
