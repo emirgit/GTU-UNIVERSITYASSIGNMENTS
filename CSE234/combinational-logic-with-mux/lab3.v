@@ -7,7 +7,7 @@ endmodule
 
 
 
-module LAB3(input I0, input I1, input I2, input I3, input I4, input I5, input SEL0,
+module lab3(input I0, input I1, input I2, input I3, input I4, input I5, input SEL0,
 	output O0, output O1, output O2);
 	
 	
