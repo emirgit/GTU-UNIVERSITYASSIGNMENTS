@@ -15,7 +15,7 @@ This part requires writing a C program that calculates the surface area and volu
     *   Formulas for surface area (A) and volume (V) are provided:
         *   **Cube:** A = 6a², V = a³
         *   **Rectangular Prism:** A = 2(ab + bc + ac), V = abc
-        *   **Cone:** A = πr(b + r), V = (1/3)πr²h (Note: 'b' in cone formula likely refers to slant height or a typo, assuming 'r' for radius and 'h' for height for standard cone formulas)
+        *   **Cone:** A = πr(b + r), where 'b' is the slant height (calculated as `sqrt(r^2 + h^2)`), V = (1/3)πr²h
         *   **Sphere:** A = 4πr², V = (4/3)πr³
 *   **Learning Objectives:**
     *   Implementing mathematical formulas in C.

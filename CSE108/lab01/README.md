@@ -18,7 +18,7 @@ This part is a classic programming challenge that tests basic conditional logic.
 
 This part focuses on implementing a mathematical formula and handling decimal numbers, with a constraint that prevents the use of standard library functions for finding a maximum value.
 
-*   **Functionality:** The program takes two decimal numbers, `X` and `Y`, as input and calculates the value of `Z` using the formula:
+*   **Functionality:** The program takes two integer numbers, `X` and `Y`, as input and calculates the value of `Z` using the formula:
     `Z = (X / Y) + (max(X, Y) / (X + Y))`
 *   **Learning Objectives:**
     *   Working with floating-point numbers (`double`).
