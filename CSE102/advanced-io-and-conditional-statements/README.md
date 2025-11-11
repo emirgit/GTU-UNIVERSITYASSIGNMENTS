@@ -34,7 +34,7 @@ This program is divided into four main parts, each demonstrating a different C p
 2.  **Clone the repository and navigate to the directory:**
     ```bash
     git clone https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS.git
-    cd GTU-UNIVERSITYASSIGNMENTS/CSE102/Advanced\ IO\ and\ Conditional\ Statements
+    cd GTU-UNIVERSITYASSIGNMENTS/CSE102/advanced-io-and-conditional-statements/src
     ```
 
 3.  **Compile the source code:**
@@ -47,4 +47,4 @@ This program is divided into four main parts, each demonstrating a different C p
     ./assignment1
     ```
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Advanced%20IO%20and%20Conditional%20Statements/HM1.pdf)
+[Details](./hm1.pdf)

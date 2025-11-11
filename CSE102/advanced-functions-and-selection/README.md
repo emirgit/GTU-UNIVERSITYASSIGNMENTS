@@ -57,7 +57,7 @@ This repository contains two separate programs. The provided `Makefile` is confi
 *   **Using the `Makefile` (Recommended):**
     1.  Navigate to the project directory:
         ```bash
-        cd GTU-UNIVERSITYASSIGNMENTS/CSE102/Advanced\ Functions\ and\ Selection/Advanced\ Functions\ and\ Selection/Basic\ Ecommerce\ Program
+        cd CSE102/advanced-functions-and-selection/src/basic-ecommerce-program
         ```
     2.  Simply run the `make` command. This will automatically clean previous builds, compile `main.c`, and run the executable.
         ```bash
@@ -69,11 +69,11 @@ This repository contains two separate programs. The provided `Makefile` is confi
 *   **Using the `Makefile` (Recommended):**
     1.  Navigate to the project directory:
         ```bash
-        cd GTU-UNIVERSITYASSIGNMENTS/CSE102/Advanced\ Functions\ and\ Selection/Advanced\ Functions\ and\ Selection/Rock\ Paper\ Scissors\ Game
+        cd CSE102/advanced-functions-and-selection/src/rock-paper-scissors-game
         ```
     2.  Simply run the `make` command. This will automatically clean previous builds, compile `main.c`, and run the executable.
         ```bash
         make
         `
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Advanced%20Functions%20and%20Selection/HM4_v2.pdf)
+[Details](./hw4.pdf)

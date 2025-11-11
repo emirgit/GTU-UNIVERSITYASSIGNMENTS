@@ -46,6 +46,9 @@ The project includes a `Makefile` that handles the compilation and execution of 
 
 2.  **Navigate to the project directory.**
     *(Ensure you are in the directory containing `main.c`, `util.c`, `util.h`, and the `Makefile`)*
+    ```bash
+    cd CSE102/library-management-system/src
+    ```
 
 3.  **Compile and Run using the `Makefile`:**
     *This single command will clean previous builds, compile the source files, and launch the library management menu.*
@@ -53,4 +56,4 @@ The project includes a `Makefile` that handles the compilation and execution of 
     make
     ```
     
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Library%20Management%20System/Hw10.pdf)
+[Details](./hw10.pdf)

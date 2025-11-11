@@ -44,6 +44,9 @@ The project includes a `Makefile` that automates the compilation and execution p
 
 2.  **Navigate to the project directory:**
     *(Ensure you are in the directory containing `main.c`, `util.c`, `util.h`, and the `Makefile`)*
+    ```bash
+    cd CSE102/text-analysis-with-word-vectors/src
+    ```
 
 3.  **Compile and Run using the `Makefile`:**
     *This single command will clean any previous builds, compile the source code into an executable named `test`, and run it. The program will then prompt you for input.*
@@ -51,4 +54,4 @@ The project includes a `Makefile` that automates the compilation and execution p
     make
     ```
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Text%20Analysis%20with%20Word%20Vectors/Hw7.pdf)
+[Details](./hw7.pdf)

@@ -48,6 +48,9 @@ The project includes a `Makefile` that automates the entire process.
 1.  **Prerequisites:** You need `GCC` (GNU Compiler Collection) and `make` installed.
 
 2.  **Navigate to the project directory.**
+    ```bash
+    cd CSE102/linked-list-serialization/src
+    ```
 
 3.  **Compile and Run using the `Makefile`:**
     *This single command will clean previous builds, compile the source files, and run the program. The output will show the initially generated list, a confirmation of serialization, and the final reconstructed list.*
@@ -55,4 +58,4 @@ The project includes a `Makefile` that automates the entire process.
     make
     ```
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Linked%20List%20Serialization/CSE%20102%20-%20HW12.pdf)
+[Details](./hw12.pdf)

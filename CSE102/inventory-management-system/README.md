@@ -54,6 +54,9 @@ The project is structured with a `Makefile` for easy compilation of all necessar
 
 2.  **Navigate to the project directory:**
     *(Ensure you are in the directory containing `main.c`, `util.c`, `util.h`, and the `Makefile`)*
+    ```bash
+    cd CSE102/inventory-management-system/src/student-id
+    ```
 
 3.  **Compile and Run using the `Makefile`:**
     *This single command will clean previous builds, compile the source files into an executable named `test`, and run the program.*
@@ -61,4 +64,4 @@ The project is structured with a `Makefile` for easy compilation of all necessar
     make
     ```
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Inventory%20Management%20System/CSE%20102%20-%20HW6.pdf)
+[Details](./hw6.pdf)

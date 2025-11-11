@@ -43,7 +43,7 @@ The application is a menu-driven console game with the following key features:
 2.  **Clone the repository and navigate to the project directory:**
     ```bash
     git clone https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS.git
-    cd GTU-UNIVERSITYASSIGNMENTS/CSE102/2D\ Puzzle\ Game
+    cd GTU-UNIVERSITYASSIGNMENTS/CSE102/2d-puzzle-game/src
     ```
 
 3.  **Compile and run the source code:**
@@ -51,4 +51,4 @@ The application is a menu-driven console game with the following key features:
     make
     ```
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/2D%20Puzzle%20Game/HW3.pdf)
+[Details](./hw3.pdf)

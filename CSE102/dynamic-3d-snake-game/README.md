@@ -56,6 +56,9 @@ The project includes a `Makefile` for easy compilation and execution.
 1.  **Prerequisites:** You need to have `GCC` (GNU Compiler Collection) and `make` installed.
 
 2.  **Navigate to the project directory.**
+    ```bash
+    cd CSE102/dynamic-3d-snake-game/src
+    ```
 
 3.  **Compile and Run using the `Makefile`:**
     *This single command will clean previous builds, compile the source files into an executable named `test`, and start the game immediately.*
@@ -63,4 +66,4 @@ The project includes a `Makefile` for easy compilation and execution.
     make
     ```
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Dynamic%203D%20Snake%20Game/CSE%20102%20-%20HW9.pdf)
+[Details](./hw9.pdf)

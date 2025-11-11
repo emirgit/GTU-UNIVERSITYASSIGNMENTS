@@ -63,7 +63,7 @@ The provided `Makefile` will compile and run the single `main.c` file which cont
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd GTU-UNIVERSITYASSIGNMENTS/CSE102/Advanced\ Functions\ and\ Selection\ 2/Advanced\ Functions\ and\ Selection\ 2
+    cd CSE102/advanced-functions-and-selection-2/src
     ```
 
 3.  **Compile and run using the `Makefile`:**
@@ -72,4 +72,4 @@ The provided `Makefile` will compile and run the single `main.c` file which cont
     make
     ```
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Advanced%20Functions%20and%20Selection%202/CSE%20102%20-%20HW5%201.pdf)
+[Details](./hw5.pdf)

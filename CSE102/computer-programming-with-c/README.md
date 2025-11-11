@@ -24,11 +24,11 @@ To compile and run this project, you will need to have `GCC` and `make` installe
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd GTU-UNIVERSITYASSIGNMENTS/CSE102/Computer\ Programming\ with\ C
+    cd GTU-UNIVERSITYASSIGNMENTS/CSE102/computer-programming-with-c/src
     ```
 3.  **Compile and run the source code:**
     ```bash
     make
     ```
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Computer%20Programming%20with%20C/CSE102%20-%20Assignment%200%20-%20Introduction%20to%20C.pdf)
+[Details](./hw0.pdf)

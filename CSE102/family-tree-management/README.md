@@ -41,6 +41,9 @@ The project is equipped with a `Makefile` for easy compilation and execution.
 1.  **Prerequisites:** You need `GCC` (GNU Compiler Collection) and `make` installed.
 
 2.  **Navigate to the project directory.**
+    ```bash
+    cd CSE102/family-tree-management/src
+    ```
 
 3.  **Compile and Run using the `Makefile`:**
     *This single command will clean previous builds, compile the source files, and launch the Family Tree System menu.*
@@ -48,4 +51,4 @@ The project is equipped with a `Makefile` for easy compilation and execution.
     make
     ```
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Family%20Tree%20Management/CSE102-Homework11.pdf)
+[Details](./hw11.pdf)

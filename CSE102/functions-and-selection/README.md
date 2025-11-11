@@ -37,11 +37,11 @@ The program prompts the user to select a part to execute. The logic for each par
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd GTU-UNIVERSITYASSIGNMENTS/CSE102/Functions\ and\ Selection
+    cd CSE102/functions-and-selection/src
     ```
 3.  **Compile and run the source code:**
     ```bash
     make
     ```
 
-[Details](https://github.com/emirgit/GTU-UNIVERSITYASSIGNMENTS/blob/main/CSE102/Functions%20and%20Selection/CSE%20102_HW2.pdf)
+[Details](./hw2.pdf)
